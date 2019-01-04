@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+smokesuite,Chrome 70.0.3538.110,,2019-01-03 22:34:02,2019-01-03 22:34:25,22.987s,FAILED
+,,,,,,
+Test Cases/ValidLogin,Chrome 70.0.3538.110,,2019-01-03 22:34:04,2019-01-03 22:34:23,18.943s,FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2019-01-03 22:34:11,2019-01-03 22:34:22,11.549s,PASSED
+"navigateToUrl(""https://circularnavigatora.iso.com/ca/login;jsessionid=qdwZjNUETxn3A0y1RNVrssap.undefined"")",Chrome 70.0.3538.110,,2019-01-03 22:34:22,2019-01-03 22:34:23,0.537s,PASSED
+"setText(findTestObject(""Object Repository/Page_ISO Circular Navigator/input_Username_j_username""), ""aaauserdawn"")",Chrome 70.0.3538.110,,2019-01-03 22:34:23,2019-01-03 22:34:23,0.672s,FAILED
